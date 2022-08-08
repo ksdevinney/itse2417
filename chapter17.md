@@ -22,3 +22,10 @@ More than one base case can exist
 Common errors:
 * not covering all base cases
 * recursion never reaches base case
+
+Recursive math: Fibonacci sequence, greatest common divisor
+
+Recursion can provide all possibilities for a situation
+
+Stack overflow: stack frame extends beyond memory allocated for a stack
+Each method call uses a new stack frame; frames are deleted upon return
